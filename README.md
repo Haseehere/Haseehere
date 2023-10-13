@@ -13,6 +13,7 @@
 - Responsive Design
 - UI/UX Optimization
 - Performance Tuning
+- Shopify plus
 
 🌐 Let's collaborate and create web solutions that captivate and convert. Reach out, and let's make the web a better place together!
 
